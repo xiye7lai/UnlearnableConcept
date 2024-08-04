@@ -36,3 +36,11 @@ python unlearnable.py --device 0 --stage generate --dataset pet --method our --m
 ```
 
 ## Citation
+```
+@inproceedings{chen2024one,
+  title={One for All: A Universal Generator for Concept Unlearnability via Multi-Modal Alignment},
+  author={Chen, Chaochao and Zhang, Jiaming and Li, Yuyuan and Han, Zhongxuan},
+  booktitle={Forty-first International Conference on Machine Learning},
+  year={2024}
+}
+```
