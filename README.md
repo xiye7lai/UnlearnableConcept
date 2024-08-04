@@ -27,8 +27,9 @@ The abundance of free internet data offers unprecedented opportunities for resea
 
 ## Usage
 
-We provide a python script 'main.py' to train the unlearanble examples generator.
-After training the generator , you can ran 'unlearnable.py' to generate the unlearnable examples and use them to train a model, where you can configure the dataset, model, if label-agnostic, hyper-parameters, and other settings. Below is an example:
+We provide a python script 'main.py' to train the unlearanble examples generator.</br>
+After training the generator , you can ran 'unlearnable.py' to generate the unlearnable examples and use them to train a model, where you can configure the dataset, model, if label-agnostic, hyper-parameters, and other settings. </br>
+Below is an example:
 
 ```bash
 python unlearnable.py --device 0 --stage generate --dataset pet --method our --model resnet --la
