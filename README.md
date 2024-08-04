@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/languages/top/xiye7lai/UnlearnableConcept" alt="GitHub top language">
   </a>
   <a href="https://github.com/xiye7lai/UnlearnableConcept">
-    <img src="https://img.shields.io/github/repo-size/xiye7lai/UnlearnableConcept" alt="GitHub repo size"><img src="https://img.shields.io/github/stars/xiye7lai/UnlearnableConcept" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/xiye7lai/UnlearnableConcept" alt="GitHub stars">
   </a>
 </div>
 
